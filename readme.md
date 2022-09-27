@@ -1,6 +1,6 @@
-###This program take a sequence of DNA and a CSV file containing STR counts for a list of individuals and then output to whom the DNA (most likely) belongs.
+### This program take a sequence of DNA and a CSV file containing STR counts for a list of individuals and then output to whom the DNA (most likely) belongs.
 
-##Testing
+## Testing
 
 
     Run python dna.py databases/small.csv sequences/1.txt. output Bob.
