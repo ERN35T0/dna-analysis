@@ -1,5 +1,7 @@
 ### This program take a sequence of DNA and a CSV file containing STR counts for a list of individuals and then output to whom the DNA (most likely) belongs.
 
+A short tandem repeat (STR) is a microsatellite with repeat units that are 2-7 base pairs in length, and the number of repeats varies between individuals, making STRs effective for human identification.
+
 ## Testing
 
 
